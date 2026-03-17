@@ -5,6 +5,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📌 Project Overview
+<img width="1187" height="793" alt="Image" src="https://github.com/user-attachments/assets/68aaa684-67ba-4054-bcca-773fdba32653" />
 <img width="1178" height="790" alt="Image" src="https://github.com/user-attachments/assets/2479b79f-8ea7-4788-b768-1033736e3941" />
 This project delivers a comprehensive end-to-end analysis of the Indian Premier League (IPL) spanning 17 years. It transforms a raw dataset of over **278,000 rows** into an interactive business intelligence dashboard. 
 
