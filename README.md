@@ -31,7 +31,7 @@ The cleaned data was imported into Power BI to build a robust analytical engine:
 ---
 
 ## 📊 Key Insights Captured
-* **Player Milestones:** Identification of the Top 10 run-scorers and wicket-takers across 17 seasons.
+* **Player Milestones:** Identification of the Top run-scorers and wicket-takers across 17 seasons.
 * **Team Evolution:** Visualizing how team performance shifted after rebranding and squad changes.
 * **Venue Analysis:** Impact of home-ground advantage on winning percentages.
 
